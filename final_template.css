@@ -1,0 +1,23 @@
+/*This is the affiliated CSS sheet for final_template.html.*/
+
+h1, h3 {
+	font-family: 'Georgia', serif;
+}
+p, .lead {
+	font-family: 'Helvetica Neue', sans-serif;
+}
+button {
+	margin-left: 10px;
+}
+.accordion {
+	margin-bottom: 30px;
+}
+.accordion-button {
+	font-weight: bold;
+}
+.fixed-bottom {
+	margin-left: 10px;
+	margin-top: 30px;
+	padding: 5px;
+	text-align: center;
+}
