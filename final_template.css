@@ -1,14 +1,21 @@
 /*This is the affiliated CSS sheet for final_template.html.*/
 
-h1, h3 {
-	font-family: 'Georgia', serif;
+h1, h4, h3 {
+	font-family: 'Times New Roman', serif;
 }
-p, .lead {
-	font-family: 'Helvetica Neue', sans-serif;
+p, .lead, {
+	font-family: 'Times New Roman', sans-serif;
 }
+figcaption {
+	font-family: 'Times New Roman' sans-serif;
+	font-size: 14px;
+	font-style: italic;
+}
+
 button {
 	margin-left: 10px;
 }
+
 .accordion {
 	margin-bottom: 30px;
 }
@@ -20,4 +27,16 @@ button {
 	margin-top: 30px;
 	padding: 5px;
 	text-align: center;
+}
+.indent {
+	text-indent: 15px;
+}
+.margin {
+	margin-left: 72px;
+}
+.graph {
+	margin-left: 5px;
+}
+a {
+	color: #386FA4;
 }
